@@ -1,17 +1,14 @@
 #about {
   width: 90%;
-  margin: 0 auto;
+  margin: 50px;
   max-width: 960px;
   @media only screen and (min-width: $cut) {
     width: 80%;
   }
 }
 
-.tech {
-  margin: 10px;
-}
-
 .user {
+  margin: 50px;
   text-align: center;
   font-size: 60px;
   display: flex;
@@ -27,7 +24,4 @@
   }
 }
 
-.user-details {
-  text-align: center;
-  margin: 5px auto;
 }
